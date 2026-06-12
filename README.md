@@ -145,7 +145,7 @@ Using logical programs, it will recommend
 
 ## Setup & Installation 👀
 
-To run this project, perform the following tasks 😨
+To run this project, perform the following tasks 
 
 Download the code file manually or via git
 ```bash
@@ -187,7 +187,7 @@ And replace the ```resume_parser.py``` with ```resume_parser.py```
 
 which was provided by me inside ```pyresparser``` folder
 
-``Congratulations 🥳😱 your set-up 👆 and installation is finished 😵🤯``
+``Congratulations your set-up 👆 and installation is finished ``
 
 I hope that your ``venvapp`` is activated and working directory is inside ``App``
 
@@ -212,7 +212,7 @@ Feel Free to <a href="mailto:varsh171105@users.noreply.github.com?subject=I%20ha
 - Admin userid is ``admin`` and password is ``admin@resume-analyzer``
 
 <!-- Roadmap -->
-## Roadmap 🛵
+## Roadmap 
 * [x] Predict user experience level.
 * [x] Add resume scoring criteria for skills and projects.
 * [x] Added fields and recommendations for web, android, ios, data science.
@@ -220,7 +220,7 @@ Feel Free to <a href="mailto:varsh171105@users.noreply.github.com?subject=I%20ha
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-## Contributing 🤘
+## Contributing 
 Pull requests are welcome. 
 
 For major changes, please open an issue first to discuss what you would like to change.
